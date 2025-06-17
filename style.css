@@ -1,0 +1,33 @@
+body{
+    
+   
+    background: linear-gradient(to right, #ffb6c1, #ffeb99, #a5d6a7, #81d4fa);
+}
+
+.form{
+    padding-left:450px ;
+    padding-right:200px ;
+    padding-top:100px ;
+    padding-bottom:200px ;
+}
+
+
+.form {
+    font-size: 30px; 
+  }
+
+   input {
+    font-size: 25px; 
+  }
+
+#button{
+    margin-left: 20%;
+    width: 150px;
+    height:50px
+    
+}
+#picture{
+   
+    width: 500px;       
+    height: 400px;  
+}
